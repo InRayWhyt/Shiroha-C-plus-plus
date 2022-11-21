@@ -11,25 +11,26 @@ using namespace std;
 //    std::cout << "Hello World!\n";
 //}
 
-// 运行程序: Ctrl + F5 或调试 >“开始执行(不调试)”菜单
-// 调试程序: F5 或调试 >“开始调试”菜单
-
-// 入门使用技巧: 
-//   1. 使用解决方案资源管理器窗口添加/管理文件
-//   2. 使用团队资源管理器窗口连接到源代码管理
-//   3. 使用输出窗口查看生成输出和其他消息
-//   4. 使用错误列表窗口查看错误
-//   5. 转到“项目”>“添加新项”以创建新的代码文件，或转到“项目”>“添加现有项”以将现有代码文件添加到项目
-//   6. 将来，若要再次打开此项目，请转到“文件”>“打开”>“项目”并选择 .sln 文件
-
 int main()
 {	
 	//using std::cout;
 	//using std::endl;
 
-	cout << "Hello World!";
-	cout << endl;
+	//cout << "Hello World!" << endl; //endl是换行。
+	//cout << "Hello World!" << "\n"; //\n是换行符。
+	cout << "Hello World!\n"; //\n是换行符。
+	//cout << endl;
 	cout << "Shiroha Start";
+	cout << endl;
+	printf("C语言的输出printf"); //C语言的输出。
+
+	//代码的格式化整理，全选代码Ctrl K Ctrl F，有限的格式化整理。
 
 	//return 0;
+}
+
+//什么情况下函数中可以不使用return？ 不需要返回值的时候，void，空。
+void mytest()
+{
+
 }
