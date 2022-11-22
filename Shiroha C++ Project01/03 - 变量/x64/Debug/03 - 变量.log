@@ -1,0 +1,4 @@
+﻿  03 - 变量.cpp
+D:\GitHub\Shiroha-C-plus-plus\Shiroha C++ Project01\03 - 变量\03 - 变量.cpp(10,15): warning C4101: “a”: 未引用的局部变量
+D:\GitHub\Shiroha-C-plus-plus\Shiroha C++ Project01\03 - 变量\03 - 变量.cpp(12,15): warning C4101: “c”: 未引用的局部变量
+  03 - 变量.vcxproj -> D:\GitHub\Shiroha-C-plus-plus\Shiroha C++ Project01\x64\Debug\03 - 变量.exe

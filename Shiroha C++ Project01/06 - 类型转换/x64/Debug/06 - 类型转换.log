@@ -1,0 +1,5 @@
+﻿  06 - 类型转换.cpp
+D:\GitHub\Shiroha-C-plus-plus\Shiroha C++ Project01\06 - 类型转换\06 - 类型转换.cpp(8,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\GitHub\Shiroha-C-plus-plus\Shiroha C++ Project01\06 - 类型转换\06 - 类型转换.cpp(11,22): warning C4305: “初始化”: 从“double”到“float”截断
+D:\GitHub\Shiroha-C-plus-plus\Shiroha C++ Project01\06 - 类型转换\06 - 类型转换.cpp(14,18): warning C4305: “初始化”: 从“double”到“float”截断
+  06 - 类型转换.vcxproj -> D:\GitHub\Shiroha-C-plus-plus\Shiroha C++ Project01\x64\Debug\06 - 类型转换.exe
